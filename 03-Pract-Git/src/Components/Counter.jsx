@@ -26,6 +26,7 @@ const Counter = () => {
 
     <button>On click inc numbers</button>
 
+    <h3>Updates done by dev a</h3>
 
     </div>
   )
