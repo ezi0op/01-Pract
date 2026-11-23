@@ -24,6 +24,8 @@ const Counter = () => {
 
     <button onClick={dec3} >Count 2</button>
 
+    <button>On click inc numbers</button>
+
 
     </div>
   )
