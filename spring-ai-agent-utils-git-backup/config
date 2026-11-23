@@ -1,0 +1,23 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "upstream"]
+	url = https://github.com/spring-ai-community/spring-ai-agent-utils
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[branch "main"]
+	remote = upstream
+	merge = refs/heads/main
+[branch "add-auto-memo-suppot"]
+	remote = upstream
+	merge = refs/heads/add-auto-memory-support
+[remote "origin"]
+	url = https://github.com/ezi0op/spring-ai-agent-utils.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "test-memo"]
+	remote = origin
+	merge = refs/heads/test-memo
+	vscode-merge-base = upstream/add-auto-memory-support

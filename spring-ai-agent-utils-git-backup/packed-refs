@@ -1,0 +1,79 @@
+# pack-refs with: peeled fully-peeled sorted 
+f8ddfdf15bf21b72465400ef202fbfabb963d52c refs/heads/add-auto-memo-suppot
+ac5a94605c8360b05403a24cfcb8987642feaaea refs/heads/dev
+072e97cea78fef8e3bc9aa64e99daed1afe0a741 refs/heads/main
+1ae644d609595d31d4d313cc0311e7d16d047dcb refs/heads/test-memo
+f5c8feaa3a3493ca0cdf413d00bb24efdc79e698 refs/remotes/upstream/0.1.x
+02102428f1b8320ed65319370e5dd3800f73883b refs/remotes/upstream/0.10.x
+cf0a3841e3f86de974628f8ca0669b42f78cbba3 refs/remotes/upstream/0.11.x
+abefb0215f88ea17ca11639b9e0c953204d34db4 refs/remotes/upstream/0.12.x
+2df2d2ef96e442aadd3c0dc1bbdbb34a043e8c39 refs/remotes/upstream/0.13.x
+f1947a0fc2b568e2d5f980edc90be7bda5a847c4 refs/remotes/upstream/0.14.x
+96c9de322d542ca2c061c7394af83d46ffec7949 refs/remotes/upstream/0.2.x
+501cfa7128189ac4e6a858f98973e4056574bc52 refs/remotes/upstream/0.3.x
+bede1c0ed3edcb4554f77214a2e50fc9c43d92ff refs/remotes/upstream/0.4.x
+cca76df2ca96cbfb597dbb9f0982987fb9e17431 refs/remotes/upstream/0.5.x
+2e6da001c19e7b9c8aa372c650d7039d99e0a288 refs/remotes/upstream/0.7.x
+648b410563728f37a4ded9594feed8bf681bdc38 refs/remotes/upstream/0.8.x
+d504609d3a4342f416e40b42914d92ef79fe8a61 refs/remotes/upstream/0.9.x
+f8ddfdf15bf21b72465400ef202fbfabb963d52c refs/remotes/upstream/add-auto-memory-support
+e1b26c3bd3d60f1aa71128b8fbdf21534e076d03 refs/remotes/upstream/add-bom
+f821eb0a5f5d5aa044cf0f47a8d6511594f959cf refs/remotes/upstream/add-cli-question-handler
+737323e61db542f4bd729b155bce4f6d50824720 refs/remotes/upstream/add-mkdocs-support
+bfd184f390a684b95d4416d6fa4414476abaf332 refs/remotes/upstream/ask-user-question-tool
+995e1a77a4dd3f437721b31bb874aee9a1063ff4 refs/remotes/upstream/auto-dream-support
+353d1331fd70950b83e9ddcb9bd336bf9819b79b refs/remotes/upstream/configurable-agent-system-prompt
+3a908bcd1818e184aeef0e60d330823ff83e94fb refs/remotes/upstream/docker-cli-exec-backend
+dca8cc3adff4954d77dda10b77f8361dd97fc28a refs/remotes/upstream/exec-backend-spi
+2c74bd13f840b99bd87f40795f2c2c60d0a26ff7 refs/remotes/upstream/extensible-sub-agent
+6bee01e13dc2f5a18ba505259403f8ce34e38364 refs/remotes/upstream/feature/workspace-context-tools
+5eb0e6d9b435fe4364c9c827a681074a5d990af4 refs/remotes/upstream/fix-15
+d4628d35e9d9dde6c52783d0bc01638cd5f6e7c5 refs/remotes/upstream/fix-sub-agent-observability-dropping
+d990bce497f793df3a03e58369d518229b3dc09b refs/remotes/upstream/gh-pages
+7e485c4d5dee42dad5192ab65084b987513d9fec refs/remotes/upstream/graalvm-skillstool-support
+150be5695c39ec6954cee36b2f07d1ae254f75d1 refs/remotes/upstream/improve-ask-user-question-tool
+b4a37921e5fc7c713fa5c724f9db9d669d8ac34a refs/remotes/upstream/improve-skills-instructions
+1c0614ed7796d5fcaa81343eaf46a395d00be568 refs/remotes/upstream/interrupt-and-tool-listener
+072e97cea78fef8e3bc9aa64e99daed1afe0a741 refs/remotes/upstream/main
+ea3993f79335796e7a0e5a68547599391b8cc092 refs/remotes/upstream/revert-57-feature/tool-context-ask-todo
+e37b69f2e56a9e3a3b811975f6647fe7edc6daab refs/remotes/upstream/shared-allowed-dir-utils
+4386eb5fc785eca5d86d95518536a22706c86db2 refs/remotes/upstream/simplify-examples-improve-docs
+59cb60c8a1222d85bf10230af2cb01801d7a9f03 refs/remotes/upstream/spring-ai-M7-upgrade
+2b9a8cd82f7b2edfedaf988e546412e98b55d852 refs/remotes/upstream/subagent-spi
+d45a95ce57f01d9383d0a5c1828d32db496d818a refs/remotes/upstream/todo-demo
+d06782fc76b16e9273cc3df23319321a894e9f28 refs/remotes/upstream/update-ask-user-question-tool
+41ab6d5231ef2dec16b0b6bfcc1300063b6c9e34 refs/remotes/upstream/upgrade-spring-ai-rc1
+a50855a8fec4e6d810e11b388d34028fc3bc590a refs/remotes/upstream/workspace-support
+c7ddd1be95be6f2b5e5bc8c1a418bcd4edcb3210 refs/tags/v0.1.0
+^53dcdb9a87dd1bfea62a067106693731c618c36b
+4a823438da55a1fd1cb94d5dd2e0dc6cf551a3a9 refs/tags/v0.1.1
+^175d532563722f299e308aadaf628ae12df3f2ae
+68e1ca5015bc4e943e91c73ca17be83661e73694 refs/tags/v0.10.0
+^7f8bc47de1bc5a306b6cb078fa6b191ff7845572
+b82352609db59d85bc114c3689641bc2cbd21d98 refs/tags/v0.11.0
+^4fdd192d96739c301dcfa02281a5527c71cc5a42
+9a0ff5f4bfb7c0294cf629329d792373f0ae1f06 refs/tags/v0.12.0
+^1a75ce5c154261cb0f4c5c70dbb5593b799e6236
+25cf8a9511568c02c2d16c85b9568633c2a43596 refs/tags/v0.13.0
+^4cad893176b402b3af417076e924225cf7ed390b
+2719aad74a0f33729ed9759e38bfec199a145b40 refs/tags/v0.14.0
+^1e9fc07e3dfbe7b1f0653c023a5efdee89fa658d
+6956c1b7086b1f7bb78d5f0f5fce1a543a2d3b6d refs/tags/v0.2.0
+^4f02c195ea8f4d3001a8237c3c3884d9ae74d694
+74b672ae1af478ed45e1d1d3bfee5205ef8cc359 refs/tags/v0.3.0
+^3737ed5413a6aaf053b781cc22828e696480c009
+a9a7d8720bff81c3cca088beebf7806c98b20576 refs/tags/v0.4.0
+^28fb3ec763fc355cadc618f8bf9f843c94c32db3
+e151179c084fd3982338d2c88d6d8682b5be8738 refs/tags/v0.4.1
+^83e6b0586a6b0a018e7344ab536e8fb77ff0b2cf
+9842832bc24d6fd944a4a1b5303d3d3fd5020cea refs/tags/v0.4.2
+^083a0a280290f806db1e828093af7eb173f1b54c
+b15f85891f8cf251b6218178fb87b760cb0bd2e6 refs/tags/v0.5.0
+^7b69f38a9b8aa16cf1029e2bc926384d93aaf5ab
+3c10e5cf8dd7f2a496ac1978c310a627d6272e42 refs/tags/v0.6.0
+cdf40d1500a98d006c033b4300a925077fc1482e refs/tags/v0.7.0
+^b03274585cbfbcd326f0b5e4171234633a39843a
+1fd81b5edc66683361a1edd5d7b9d25e8e4bbed0 refs/tags/v0.8.0
+^7a193eff80e635a658395a2c9ac3419b4bb45229
+27797833da5a7b2012bc2785f24ff9372cb4b02f refs/tags/v0.9.0
+^c5b22e7aeab618ec856eca9a96d0dcee9f97ca78

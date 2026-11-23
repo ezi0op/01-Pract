@@ -1,0 +1,23 @@
+Merge branch 'main' into test-memo
+
+# Conflicts:
+#	README.md
+#	docs/tools/AutoMemoryTools.md
+#	docs/tools/AutoMemoryToolsAdvisor.md
+#	examples/memory/memory-filesystem-tools-demo/README.md
+#	examples/memory/memory-filesystem-tools-demo/pom.xml
+#	examples/memory/memory-filesystem-tools-demo/src/main/java/org/springaicommunity/skills/Application.java
+#	examples/memory/memory-filesystem-tools-demo/src/main/java/org/springaicommunity/skills/MyLoggingAdvisor.java
+#	examples/memory/memory-filesystem-tools-demo/src/main/resources/application.properties
+#	examples/memory/memory-tools-advisor-demo/README.md
+#	examples/memory/memory-tools-advisor-demo/pom.xml
+#	examples/memory/memory-tools-advisor-demo/src/main/java/org/springaicommunity/agent/Application.java
+#	examples/memory/memory-tools-advisor-demo/src/main/java/org/springaicommunity/agent/MyLoggingAdvisor.java
+#	examples/memory/memory-tools-demo/README.md
+#	examples/memory/memory-tools-demo/pom.xml
+#	examples/memory/memory-tools-demo/src/main/java/org/springaicommunity/agent/Application.java
+#	examples/memory/memory-tools-demo/src/main/java/org/springaicommunity/agent/MyLoggingAdvisor.java
+#	examples/memory/memory-tools-demo/src/main/resources/application.properties
+#	examples/pom.xml
+#	spring-ai-agent-utils/src/main/java/org/springaicommunity/agent/advisors/AutoMemoryToolsAdvisor.java
+#	spring-ai-agent-utils/src/test/java/org/springaicommunity/agent/advisors/AutoMemoryToolsAdvisorTest.java
