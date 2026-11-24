@@ -6,6 +6,7 @@ const Submit = () => {
 
 
         <button>Submit</button>
+        <button>Submitting Documnets by Order of HR</button>
     </div>
   )
 }
