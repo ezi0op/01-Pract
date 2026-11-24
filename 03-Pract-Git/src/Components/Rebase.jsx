@@ -8,7 +8,9 @@ const Rebase = () => {
           <h1>Git Rebase Practice</h1>
             <p>First feature commit</p>
             <p>New Reabse feature</p>
-            <p>New features weree added in furhter updates</p>
+
+            <h2>Furhter updates happedned here</h2>
+
     </div>
   )
 }
