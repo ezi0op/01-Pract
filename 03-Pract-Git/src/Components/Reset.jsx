@@ -18,6 +18,7 @@ const Reset = () => {
         </p>
         <p>Learning Git hard reset</p>
         <p>This is my revert practice</p>
+        <p>Practicing git Stash</p>
     </div>
     
   )
